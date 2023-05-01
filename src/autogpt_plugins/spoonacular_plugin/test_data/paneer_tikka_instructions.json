@@ -1,0 +1,203 @@
+[
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Cut the paneer into 1 inch cubes and the vegetables in 1 inch pieces. Keep them in separate bowls.In a medium bowl, whisk together the yogurt, coriander, cumin, garam masala, paprika, lemon juice, salt, ginger and garlic until the mixture is smooth.",
+          "ingredients": [
+            {
+              "id": 93663,
+              "name": "garam masala",
+              "localizedName": "garam masala",
+              "image": "garam-masala.jpg"
+            },
+            {
+              "id": 9152,
+              "name": "lemon juice",
+              "localizedName": "lemon juice",
+              "image": "lemon-juice.jpg"
+            },
+            {
+              "id": 11583,
+              "name": "vegetable",
+              "localizedName": "vegetable",
+              "image": "mixed-vegetables.png"
+            },
+            {
+              "id": 1012013,
+              "name": "coriander",
+              "localizedName": "coriander",
+              "image": "ground-coriander.jpg"
+            },
+            {
+              "id": 2028,
+              "name": "paprika",
+              "localizedName": "paprika",
+              "image": "paprika.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 11216,
+              "name": "ginger",
+              "localizedName": "ginger",
+              "image": "ginger.png"
+            },
+            {
+              "id": 98847,
+              "name": "paneer",
+              "localizedName": "paneer",
+              "image": "paneer.png"
+            },
+            {
+              "id": 1116,
+              "name": "yogurt",
+              "localizedName": "yogurt",
+              "image": "plain-yogurt.jpg"
+            },
+            {
+              "id": 1002014,
+              "name": "cumin",
+              "localizedName": "cumin",
+              "image": "ground-cumin.jpg"
+            },
+            {
+              "id": 2047,
+              "name": "salt",
+              "localizedName": "salt",
+              "image": "salt.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            },
+            {
+              "id": 404661,
+              "name": "whisk",
+              "localizedName": "whisk",
+              "image": "whisk.png"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Transfer half the yogurt marinade into the paneer bowl and the other half in the veggie bowl.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "marinade",
+              "localizedName": "marinade",
+              "image": "seasoning.png"
+            },
+            {
+              "id": 98847,
+              "name": "paneer",
+              "localizedName": "paneer",
+              "image": "paneer.png"
+            },
+            {
+              "id": 1116,
+              "name": "yogurt",
+              "localizedName": "yogurt",
+              "image": "plain-yogurt.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Mix each thoroughly to coat the ingredients. Cover and marinate in the refrigerator for at least two hours or overnight.Preheat your grill on medium to high heat.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404706,
+              "name": "grill",
+              "localizedName": "grill",
+              "image": "grill.jpg"
+            }
+          ],
+          "length": {
+            "number": 120,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Place paneer and vegetable pieces on skewers.Grill each side until browned. This should take about 3-4 minutes per side. Lightly brush with olive oil while grilling.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 11583,
+              "name": "vegetable",
+              "localizedName": "vegetable",
+              "image": "mixed-vegetables.png"
+            },
+            {
+              "id": 98847,
+              "name": "paneer",
+              "localizedName": "paneer",
+              "image": "paneer.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 3065,
+              "name": "skewers",
+              "localizedName": "skewers",
+              "image": "wooden-skewers.jpg"
+            },
+            {
+              "id": 404706,
+              "name": "grill",
+              "localizedName": "grill",
+              "image": "grill.jpg"
+            }
+          ],
+          "length": {
+            "number": 4,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 5,
+          "step": "Sprinkle with chaat masala.",
+          "ingredients": [
+            {
+              "id": 10393663,
+              "name": "chaat masala",
+              "localizedName": "chaat masala",
+              "image": "ground-coriander.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Serve warm and enjoy!",
+          "ingredients": [],
+          "equipment": []
+        }
+      ]
+    }
+  ]
