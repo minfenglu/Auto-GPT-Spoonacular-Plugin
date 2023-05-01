@@ -1,0 +1,67 @@
+{
+    "results": [
+      {
+        "id": 674506,
+        "title": "Paneer Tikka",
+        "image": "https://spoonacular.com/recipeImages/674506-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 1674557,
+        "title": "Paneer Tikka",
+        "image": "https://spoonacular.com/recipeImages/1674557-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 609175,
+        "title": "Paneer Tikka",
+        "image": "https://spoonacular.com/recipeImages/609175-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 654534,
+        "title": "Paneer Makhani",
+        "image": "https://spoonacular.com/recipeImages/654534-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 667926,
+        "title": "Paneer Makhani",
+        "image": "https://spoonacular.com/recipeImages/667926-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 654532,
+        "title": "Paneer jalfrezi",
+        "image": "https://spoonacular.com/recipeImages/654532-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 22202,
+        "title": "Paneer Jalfrezi",
+        "image": "https://spoonacular.com/recipeImages/22202-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 617061,
+        "title": "Paneer Do Pyaza",
+        "image": "https://spoonacular.com/recipeImages/617061-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 1084087,
+        "title": "Paneer Manchurian",
+        "image": "https://spoonacular.com/recipeImages/1084087-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 654523,
+        "title": "Paneer & Fig Pizza",
+        "image": "https://spoonacular.com/recipeImages/654523-312x231.jpg",
+        "imageType": "jpg"
+      }
+    ],
+    "offset": 0,
+    "number": 10,
+    "totalResults": 171
+  }
